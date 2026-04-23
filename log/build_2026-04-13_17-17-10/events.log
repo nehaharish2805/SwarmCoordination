@@ -1,0 +1,192 @@
+[0.000000] (-) TimerEvent: {}
+[0.001313] (swarm_pkg) JobQueued: {'identifier': 'swarm_pkg', 'dependencies': OrderedDict()}
+[0.016009] (swarm_pkg) JobStarted: {'identifier': 'swarm_pkg'}
+[0.095243] (-) TimerEvent: {}
+[0.237749] (-) TimerEvent: {}
+[0.339791] (-) TimerEvent: {}
+[0.464716] (-) TimerEvent: {}
+[0.581790] (-) TimerEvent: {}
+[0.686350] (-) TimerEvent: {}
+[0.807071] (-) TimerEvent: {}
+[0.929308] (-) TimerEvent: {}
+[1.049998] (-) TimerEvent: {}
+[1.161399] (-) TimerEvent: {}
+[1.264576] (-) TimerEvent: {}
+[1.379233] (-) TimerEvent: {}
+[1.496218] (-) TimerEvent: {}
+[1.622450] (-) TimerEvent: {}
+[1.738049] (-) TimerEvent: {}
+[1.841477] (-) TimerEvent: {}
+[1.957941] (-) TimerEvent: {}
+[2.068332] (-) TimerEvent: {}
+[2.175701] (-) TimerEvent: {}
+[2.278304] (-) TimerEvent: {}
+[2.385347] (-) TimerEvent: {}
+[2.491658] (-) TimerEvent: {}
+[2.592385] (-) TimerEvent: {}
+[2.698366] (-) TimerEvent: {}
+[2.804865] (-) TimerEvent: {}
+[2.918814] (-) TimerEvent: {}
+[3.022482] (-) TimerEvent: {}
+[3.137737] (-) TimerEvent: {}
+[3.239649] (-) TimerEvent: {}
+[3.361252] (-) TimerEvent: {}
+[3.471035] (-) TimerEvent: {}
+[3.591962] (-) TimerEvent: {}
+[3.696838] (-) TimerEvent: {}
+[3.804338] (-) TimerEvent: {}
+[3.910398] (-) TimerEvent: {}
+[4.019353] (-) TimerEvent: {}
+[4.138349] (-) TimerEvent: {}
+[4.242890] (-) TimerEvent: {}
+[4.349790] (-) TimerEvent: {}
+[4.469690] (-) TimerEvent: {}
+[4.598085] (-) TimerEvent: {}
+[4.714662] (-) TimerEvent: {}
+[4.819314] (-) TimerEvent: {}
+[4.933427] (-) TimerEvent: {}
+[5.037410] (-) TimerEvent: {}
+[5.148134] (-) TimerEvent: {}
+[5.256222] (-) TimerEvent: {}
+[5.382453] (-) TimerEvent: {}
+[5.493069] (-) TimerEvent: {}
+[5.599567] (-) TimerEvent: {}
+[5.704632] (-) TimerEvent: {}
+[5.812521] (-) TimerEvent: {}
+[5.923930] (-) TimerEvent: {}
+[6.050804] (-) TimerEvent: {}
+[6.164871] (-) TimerEvent: {}
+[6.301981] (-) TimerEvent: {}
+[6.419018] (-) TimerEvent: {}
+[6.524748] (-) TimerEvent: {}
+[6.631155] (-) TimerEvent: {}
+[6.788043] (-) TimerEvent: {}
+[6.892345] (-) TimerEvent: {}
+[6.993268] (-) TimerEvent: {}
+[7.098242] (-) TimerEvent: {}
+[7.221978] (-) TimerEvent: {}
+[7.329464] (-) TimerEvent: {}
+[7.432852] (-) TimerEvent: {}
+[7.537159] (-) TimerEvent: {}
+[7.651613] (-) TimerEvent: {}
+[7.754963] (-) TimerEvent: {}
+[7.860092] (-) TimerEvent: {}
+[7.963736] (-) TimerEvent: {}
+[8.068295] (-) TimerEvent: {}
+[8.174147] (-) TimerEvent: {}
+[8.284833] (-) TimerEvent: {}
+[8.401427] (-) TimerEvent: {}
+[8.518198] (-) TimerEvent: {}
+[8.619234] (-) TimerEvent: {}
+[8.722433] (-) TimerEvent: {}
+[8.829411] (-) TimerEvent: {}
+[8.930848] (-) TimerEvent: {}
+[9.054279] (-) TimerEvent: {}
+[9.172066] (-) TimerEvent: {}
+[9.280759] (-) TimerEvent: {}
+[9.388396] (-) TimerEvent: {}
+[9.501248] (-) TimerEvent: {}
+[9.612010] (-) TimerEvent: {}
+[9.716032] (-) TimerEvent: {}
+[9.831422] (-) TimerEvent: {}
+[9.936026] (-) TimerEvent: {}
+[10.046835] (-) TimerEvent: {}
+[10.159041] (-) TimerEvent: {}
+[10.265314] (-) TimerEvent: {}
+[10.367437] (-) TimerEvent: {}
+[10.486789] (-) TimerEvent: {}
+[10.603388] (-) TimerEvent: {}
+[10.706272] (-) TimerEvent: {}
+[10.807777] (-) TimerEvent: {}
+[10.915858] (-) TimerEvent: {}
+[11.020248] (-) TimerEvent: {}
+[11.134903] (-) TimerEvent: {}
+[11.240772] (-) TimerEvent: {}
+[11.369495] (-) TimerEvent: {}
+[11.496669] (-) TimerEvent: {}
+[11.607261] (-) TimerEvent: {}
+[11.729158] (-) TimerEvent: {}
+[11.846813] (-) TimerEvent: {}
+[11.910725] (swarm_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/swarm_pkg', 'build', '--build-base', '/home/neha/swarm_ws/build/swarm_pkg/build', 'install', '--record', '/home/neha/swarm_ws/build/swarm_pkg/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/neha/swarm_ws/src/swarm_pkg', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_IN:en', 'USER': 'neha', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/neha', 'OLDPWD': '/home/neha/swarm_ws/src/swarm_pkg', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '62276', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'neha', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'neha', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models::/opt/ros/humble/share/turtlebot3_gazebo/models:/opt/ros/humble/share/turtlebot3_gazebo/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/neha-VirtualBox:@/tmp/.ICE-unix/1664,unix/neha-VirtualBox:/tmp/.ICE-unix/1664', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/381b6d7a_2b3d_4a88_9c19_b2d55e9e9829', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_IN', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.YWM8M3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.192', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/neha/swarm_ws/build/swarm_pkg', 'TURTLEBOT3_MODEL': 'burger', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/neha/swarm_ws/build/swarm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[11.962579] (-) TimerEvent: {}
+[12.068279] (-) TimerEvent: {}
+[12.172465] (-) TimerEvent: {}
+[12.274738] (-) TimerEvent: {}
+[12.382693] (-) TimerEvent: {}
+[12.487110] (-) TimerEvent: {}
+[12.620192] (-) TimerEvent: {}
+[12.728376] (-) TimerEvent: {}
+[12.833091] (-) TimerEvent: {}
+[12.943694] (-) TimerEvent: {}
+[13.053598] (-) TimerEvent: {}
+[13.160227] (-) TimerEvent: {}
+[13.275440] (-) TimerEvent: {}
+[13.387420] (-) TimerEvent: {}
+[13.491194] (-) TimerEvent: {}
+[13.595267] (-) TimerEvent: {}
+[13.703034] (-) TimerEvent: {}
+[13.819083] (-) TimerEvent: {}
+[13.922416] (-) TimerEvent: {}
+[14.036206] (-) TimerEvent: {}
+[14.140607] (-) TimerEvent: {}
+[14.245859] (-) TimerEvent: {}
+[14.357665] (-) TimerEvent: {}
+[14.465127] (-) TimerEvent: {}
+[14.572062] (-) TimerEvent: {}
+[14.680998] (-) TimerEvent: {}
+[14.804315] (-) TimerEvent: {}
+[14.924116] (-) TimerEvent: {}
+[15.050231] (-) TimerEvent: {}
+[15.168447] (-) TimerEvent: {}
+[15.272833] (-) TimerEvent: {}
+[15.376948] (-) TimerEvent: {}
+[15.485846] (-) TimerEvent: {}
+[15.593736] (-) TimerEvent: {}
+[15.696138] (-) TimerEvent: {}
+[15.800876] (-) TimerEvent: {}
+[15.904438] (-) TimerEvent: {}
+[16.012018] (-) TimerEvent: {}
+[16.127052] (-) TimerEvent: {}
+[16.229100] (-) TimerEvent: {}
+[16.330296] (-) TimerEvent: {}
+[16.439949] (-) TimerEvent: {}
+[16.542263] (-) TimerEvent: {}
+[16.651284] (-) TimerEvent: {}
+[16.759774] (-) TimerEvent: {}
+[16.867041] (-) TimerEvent: {}
+[16.974213] (-) TimerEvent: {}
+[17.043628] (swarm_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[17.053024] (swarm_pkg) StdoutLine: {'line': b'writing ../../build/swarm_pkg/swarm_pkg.egg-info/PKG-INFO\n'}
+[17.054263] (swarm_pkg) StdoutLine: {'line': b'writing dependency_links to ../../build/swarm_pkg/swarm_pkg.egg-info/dependency_links.txt\n'}
+[17.056120] (swarm_pkg) StdoutLine: {'line': b'writing entry points to ../../build/swarm_pkg/swarm_pkg.egg-info/entry_points.txt\n'}
+[17.057649] (swarm_pkg) StdoutLine: {'line': b'writing requirements to ../../build/swarm_pkg/swarm_pkg.egg-info/requires.txt\n'}
+[17.058069] (swarm_pkg) StdoutLine: {'line': b'writing top-level names to ../../build/swarm_pkg/swarm_pkg.egg-info/top_level.txt\n'}
+[17.074434] (-) TimerEvent: {}
+[17.086106] (swarm_pkg) StdoutLine: {'line': b"reading manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'\n"}
+[17.120047] (swarm_pkg) StdoutLine: {'line': b"writing manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'\n"}
+[17.164226] (swarm_pkg) StdoutLine: {'line': b'running build\n'}
+[17.165175] (swarm_pkg) StdoutLine: {'line': b'running build_py\n'}
+[17.200201] (-) TimerEvent: {}
+[17.221037] (swarm_pkg) StdoutLine: {'line': b'running install\n'}
+[17.223818] (swarm_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[17.226172] (swarm_pkg) StdoutLine: {'line': b'running install_data\n'}
+[17.227106] (swarm_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[17.228527] (swarm_pkg) StdoutLine: {'line': b"removing '/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[17.229153] (swarm_pkg) StdoutLine: {'line': b'Copying ../../build/swarm_pkg/swarm_pkg.egg-info to /home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info\n'}
+[17.236074] (swarm_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[17.292128] (-) TimerEvent: {}
+[17.404060] (-) TimerEvent: {}
+[17.508346] (-) TimerEvent: {}
+[17.625231] (-) TimerEvent: {}
+[17.639161] (swarm_pkg) StdoutLine: {'line': b'Installing follower script to /home/neha/swarm_ws/install/swarm_pkg/lib/swarm_pkg\n'}
+[17.652631] (swarm_pkg) StdoutLine: {'line': b"writing list of installed files to '/home/neha/swarm_ws/build/swarm_pkg/install.log'\n"}
+[17.726026] (-) TimerEvent: {}
+[17.827854] (-) TimerEvent: {}
+[17.937127] (-) TimerEvent: {}
+[18.040196] (-) TimerEvent: {}
+[18.117938] (swarm_pkg) CommandEnded: {'returncode': 0}
+[18.149253] (-) TimerEvent: {}
+[18.283144] (-) TimerEvent: {}
+[18.374930] (swarm_pkg) JobEnded: {'identifier': 'swarm_pkg', 'rc': 0}
+[18.388678] (-) TimerEvent: {}
+[18.389335] (-) EventReactorShutdown: {}

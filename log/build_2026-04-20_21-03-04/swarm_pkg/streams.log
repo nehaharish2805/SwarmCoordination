@@ -1,0 +1,25 @@
+[2.115s] Invoking command in '/home/neha/swarm_ws/src/swarm_pkg': PYTHONPATH=/home/neha/swarm_ws/build/swarm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_pkg build --build-base /home/neha/swarm_ws/build/swarm_pkg/build install --record /home/neha/swarm_ws/build/swarm_pkg/install.log --single-version-externally-managed install_data
+[2.947s] running egg_info
+[2.949s] writing ../../build/swarm_pkg/swarm_pkg.egg-info/PKG-INFO
+[2.950s] writing dependency_links to ../../build/swarm_pkg/swarm_pkg.egg-info/dependency_links.txt
+[2.950s] writing entry points to ../../build/swarm_pkg/swarm_pkg.egg-info/entry_points.txt
+[2.950s] writing requirements to ../../build/swarm_pkg/swarm_pkg.egg-info/requires.txt
+[2.951s] writing top-level names to ../../build/swarm_pkg/swarm_pkg.egg-info/top_level.txt
+[2.959s] reading manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'
+[2.962s] writing manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'
+[2.962s] running build
+[2.963s] running build_py
+[2.966s] copying swarm_pkg/follower.py -> /home/neha/swarm_ws/build/swarm_pkg/build/lib/swarm_pkg
+[2.967s] running install
+[2.967s] running install_lib
+[2.967s] copying /home/neha/swarm_ws/build/swarm_pkg/build/lib/swarm_pkg/follower.py -> /home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg
+[2.969s] byte-compiling /home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg/follower.py to follower.cpython-310.pyc
+[2.970s] Sorry: IndentationError: unindent does not match any outer indentation level (follower.py, line 74)
+[2.970s] running install_data
+[2.971s] running install_egg_info
+[2.975s] removing '/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.977s] Copying ../../build/swarm_pkg/swarm_pkg.egg-info to /home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info
+[2.979s] running install_scripts
+[3.045s] Installing follower script to /home/neha/swarm_ws/install/swarm_pkg/lib/swarm_pkg
+[3.048s] writing list of installed files to '/home/neha/swarm_ws/build/swarm_pkg/install.log'
+[3.109s] Invoked command in '/home/neha/swarm_ws/src/swarm_pkg' returned '0': PYTHONPATH=/home/neha/swarm_ws/build/swarm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_pkg build --build-base /home/neha/swarm_ws/build/swarm_pkg/build install --record /home/neha/swarm_ws/build/swarm_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[2.964s] Invoking command in '/home/neha/swarm_ws/src/swarm_pkg': PYTHONPATH=/home/neha/swarm_ws/build/swarm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_pkg build --build-base /home/neha/swarm_ws/build/swarm_pkg/build install --record /home/neha/swarm_ws/build/swarm_pkg/install.log --single-version-externally-managed install_data
+[3.759s] running egg_info
+[3.760s] writing ../../build/swarm_pkg/swarm_pkg.egg-info/PKG-INFO
+[3.811s] writing dependency_links to ../../build/swarm_pkg/swarm_pkg.egg-info/dependency_links.txt
+[3.812s] writing entry points to ../../build/swarm_pkg/swarm_pkg.egg-info/entry_points.txt
+[3.812s] writing requirements to ../../build/swarm_pkg/swarm_pkg.egg-info/requires.txt
+[3.813s] writing top-level names to ../../build/swarm_pkg/swarm_pkg.egg-info/top_level.txt
+[3.832s] reading manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'
+[3.840s] writing manifest file '../../build/swarm_pkg/swarm_pkg.egg-info/SOURCES.txt'
+[3.840s] running build
+[3.841s] running build_py
+[3.844s] running install
+[3.845s] running install_lib
+[3.851s] running install_data
+[3.854s] running install_egg_info
+[3.859s] removing '/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[3.859s] Copying ../../build/swarm_pkg/swarm_pkg.egg-info to /home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages/swarm_pkg-0.0.0-py3.10.egg-info
+[3.862s] running install_scripts
+[3.925s] Installing follower script to /home/neha/swarm_ws/install/swarm_pkg/lib/swarm_pkg
+[3.927s] writing list of installed files to '/home/neha/swarm_ws/build/swarm_pkg/install.log'
+[3.978s] Invoked command in '/home/neha/swarm_ws/src/swarm_pkg' returned '0': PYTHONPATH=/home/neha/swarm_ws/build/swarm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/neha/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_pkg build --build-base /home/neha/swarm_ws/build/swarm_pkg/build install --record /home/neha/swarm_ws/build/swarm_pkg/install.log --single-version-externally-managed install_data

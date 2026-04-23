@@ -1,0 +1,3 @@
+[console_scripts]
+follower = swarm_pkg.follower:main
+
